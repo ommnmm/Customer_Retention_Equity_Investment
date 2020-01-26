@@ -8,11 +8,11 @@ In order to imporove user retention and lower churn, company is interested in un
 Anomalized real data from financial service company.
 
 ## Project summary
-• Analyzed 1 million entries of customer data in equity investment collected over 1 year.
-• Performed exploratory data analysis on churned customers
-• feature engineering: ordinal -> numerical, categorical -> one-hot encoded.
-• Upsampled churned customer data (4% of total) to address data imbalance.
-• Tuned random forest to obtain best recall score, and used logistic regression as baseline comparison.
+• Analyzed 1 million entries of customer data in equity investment collected over 1 year. <br>
+• Performed exploratory data analysis on churned customers<br>
+• feature engineering: ordinal -> numerical, categorical -> one-hot encoded.<br>
+• Upsampled churned customer data (4% of total) to address data imbalance.<br>
+• Tuned random forest to obtain best recall score, and used logistic regression as baseline comparison.<br>
 • Discovered meaningful insight from feature importance: target customers with limited or no investment experience and high risk tolerance to lower churn rate.
 
 ## Conclusion
